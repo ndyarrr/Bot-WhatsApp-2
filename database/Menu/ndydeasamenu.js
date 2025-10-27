@@ -13,5 +13,7 @@ global.ndydeasamenu = `*Ndydeasaa X RPL Bot Menu*
 * /gemini - chat [model : Gemini Pro]*
 * /qcp - text to sticker (private chat room)*
 * /qcg - text to sticker (group room)
+* /iqc - iphone fake chat*
+
 
 *TT : @fandy_a_r*`
